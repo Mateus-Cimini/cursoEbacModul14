@@ -21,11 +21,18 @@ body {
     cursor: pointer;
 }
 
+.container .navbar-toggler {
+    background-color: #fff;
+}
 
-.container .navbar-brand {
+.section-title {
     font-family: 'Pacifico', 'cursive';
 }
 
-.container .navbar-toggler {
-    background-color: #fff;
+.span-title {
+    color: #e15f41;
+}
+
+#sobre {
+    background-color: #ffeae6;
 }
