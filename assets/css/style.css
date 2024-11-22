@@ -51,3 +51,28 @@ button.text-colored:hover {
 button.nav-link.active.text-colored {
     background-color: #e15f41;
 }
+
+address {
+    line-height: 1.5;
+    color: #555;
+}
+
+.social-links li {
+    list-style: none;
+    display: inline;
+}
+.social-links li a {
+    text-decoration: none;
+}
+
+#contato button {
+    background-color: #e15f41;
+    color: #fff;
+    border: 2px solid #e15f41;
+    transition: border-width 0.3s ease, background-color 0.3s ease;
+    margin: 20px;
+}
+
+#contato button:hover {
+    border-width: 1px;
+}
