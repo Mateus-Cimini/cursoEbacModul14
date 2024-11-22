@@ -31,10 +31,23 @@ body {
 
 
 
-#sobre {
+#sobre,
+#cardapio {
     background-color: #ffeae6;
 }
 
 .text-colored {
     color: #e15f41;  
+}
+
+button.text-colored {
+    color: #e15f41;
+}
+
+button.text-colored:hover {
+    color: #e15f41;
+}
+
+button.nav-link.active.text-colored {
+    background-color: #e15f41;
 }
