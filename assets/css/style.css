@@ -29,10 +29,12 @@ body {
     font-family: 'Pacifico', 'cursive';
 }
 
-.span-title {
-    color: #e15f41;
-}
+
 
 #sobre {
     background-color: #ffeae6;
+}
+
+.text-colored {
+    color: #e15f41;  
 }
